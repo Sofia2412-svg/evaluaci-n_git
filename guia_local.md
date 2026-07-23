@@ -8,6 +8,6 @@ Para navegar y crear, respectivamente. usamos:
 - touch: Crear un archivo nuevo.  
 ## Repositorio local  
 Un repositorio se inicia con el comando: "git init" que cambia la carpeta para que sea un repositorio. 
-## Imagen de referencia
-![Imagenes](./Imagenes/"C:\Users\B09S202est\Documents\Sofia\evaluacion_git\Imagenes\Captura de pantalla 2026-07-23 103640.png")  
-
+Posteriormente para conocer si el repositorio se genero en la carpeta con el origen deseado ya sea el nombre del propietario o el email del propietario respectivamente. Este comando se llama "git config list"  
+## Imagen de referencia  
+![Imagen](./Primera1.png)
