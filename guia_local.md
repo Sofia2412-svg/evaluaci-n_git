@@ -10,4 +10,4 @@ Para navegar y crear, respectivamente. usamos:
 Un repositorio se inicia con el comando: "git init" que cambia la carpeta para que sea un repositorio. 
 Posteriormente para conocer si el repositorio se genero en la carpeta con el origen deseado ya sea el nombre del propietario o el email del propietario respectivamente. Este comando se llama "git config list"  
 ## Imagen de referencia  
-![Imagen](./Primera1.png)
+![Imagen](./Imagenes/Primera1.png)
